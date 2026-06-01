@@ -27,12 +27,33 @@ To write a Python program that sorts a dictionary's:
 5. **Display** the original and sorted dictionaries.
 6. **End the program.**
 
----
 
-## 🧪Program
-Add Code here
 
-## Sample Output
+## 🧪Program:
+# Create a dictionary
+my_dict = {'b': 20, 'a': 10, 'd': 40, 'c': 30}
 
-## Result
+# Sort dictionary by keys (alphabetical order)
+sorted_by_keys = dict(sorted(my_dict.items()))
+
+# Sort dictionary by values (alphabetical order)
+sorted_by_values = dict(sorted(my_dict.items(), key=lambda item: item[1]))
+
+# Display results
+print("Original Dictionary:", my_dict)
+print("Sorted by Keys:", sorted_by_keys)
+print("Sorted by Values:", sorted_by_values)
+<img width="1651" height="727" alt="image" src="https://github.com/user-attachments/assets/be087955-a2af-4274-9cf1-67564e8e71cc" />
+
+
+OUTPUT:
+
+<img width="1651" height="727" alt="image" src="https://github.com/user-attachments/assets/e69e9548-57ce-495d-a442-f644b9b62305" />
+
+
+RESULT:
+
+The dictionary was successfully sorted in alphabetical order based on both keys and values, and the sorted dictionaries were displayed as output.
+
+
 
