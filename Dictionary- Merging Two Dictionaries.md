@@ -22,12 +22,14 @@ print("Dictionary 1:", dict1)
 print("Dictionary 2:", dict2)
 print("Merged Dictionary:", merged_dict)
 
-<img width="1842" height="662" alt="image" src="https://github.com/user-attachments/assets/5f1f65aa-2501-40f7-915d-5bf5ca192a7c" />
+
+<img width="1579" height="656" alt="image" src="https://github.com/user-attachments/assets/e4e55513-331a-42c1-814d-fdf8b07bc7df" />
 
 
 ## Output:
 
-<img width="1842" height="662" alt="image" src="https://github.com/user-attachments/assets/fdbadd1d-0560-481d-8508-2cff3bac9e08" />
+
+<img width="1579" height="656" alt="image" src="https://github.com/user-attachments/assets/e4c2ab8e-7d9d-4d09-bde9-fd7a6453f6cc" />
 
 
 ## Result:
